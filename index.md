@@ -1,4 +1,6 @@
-# Hello there!
+---
+title: Hello there!
+---
 
 Wow, this is so cool! 🐬
 
